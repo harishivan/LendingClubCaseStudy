@@ -31,7 +31,6 @@
 - Jupyter 6.4.5
 
 ## Acknowledgements
-Give credit here.
 - This project was a case study from Uprad
 - This project was based on (https://www.upgrad.com).
 
